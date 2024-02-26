@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b505860094a84cf4890ab22d58803858
+guid: fe42c99c1d41d0a42bdc1bb03669d19d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,7 +69,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -108,7 +108,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-4096x2048-Crunch-Area04_ComingSoon_Atlas-2f847692_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1318
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6f1fc235c81940b116335649cc25e
+      internalID: -1736138308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x2048-Crunch-Area04_ComingSoon_Atlas-2f847692_1
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 0
+        width: 1319
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33119ad4c827a5f4c9f6af822eb7f87c
+      internalID: 2004109445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x2048-Crunch-Area04_ComingSoon_Atlas-2f847692_2
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 0
+        width: 1459
+        height: 2048
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea7a5fe932a20d47bcbe8e603058407
+      internalID: 1154900282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +182,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sactx-0-4096x2048-Crunch-Area04_ComingSoon_Atlas-2f847692_0: -1736138308
+      sactx-0-4096x2048-Crunch-Area04_ComingSoon_Atlas-2f847692_1: 2004109445
+      sactx-0-4096x2048-Crunch-Area04_ComingSoon_Atlas-2f847692_2: 1154900282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
